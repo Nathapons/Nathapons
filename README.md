@@ -1,8 +1,6 @@
 
-<h2 align="center" style="color:blue;">Nuthapon Sripornprasert</h2>
-<p align="center">
-<img src="/picture/29314707_1726010667442216_1047016552009145206_n.jpg" width="240" height="230">
-</p>
+# Nathapon Sr
+![myprofile](/picture/29314707_1726010667442216_1047016552009145206_n.jpg)
 
 ### PROFILE
 ---
