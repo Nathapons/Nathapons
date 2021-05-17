@@ -32,7 +32,7 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
-<p>
+<div>
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
     <li>Design Entity Relation Diagram</li>
@@ -40,13 +40,15 @@
     <li>Make Serializer of all model</li>
     <li>Create All API Function in Home Service (Using Serializer to run query)</li>
     <li>Create Json Web Token when Login Page</li>
-</p>
-   
-<b>SPC Data Visualization</b>
-<p>Design Quality Graph in IoT Online Report<p>
+</div>
+
+<div>
+<b>SPC Data Visualization</b><br/>
+Design Quality Graph in IoT Online Report
    <li>Design PL/SQL Database</li>
    <li>Write VB program (POST database, send Outlook mail)</li>
    <li>Create SQL query to design Data Visualization</li>
+</div>
 
 <b>Cross Section Excel Report - Link</b>
 <p>Design Cross Section Report from machine<p>
