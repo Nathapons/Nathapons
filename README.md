@@ -24,7 +24,7 @@
   </ul>
 </li>
 </span>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="50px"/>
 </div>
   
 <h2>WORK EXPERIENCE</h2>
