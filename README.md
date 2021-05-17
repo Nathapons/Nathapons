@@ -4,7 +4,7 @@
 <img src="/picture/29314707_1726010667442216_1047016552009145206_n.jpg" width="240" height="230">
 </p>
 
-<h3>PROFILE</h3>
+### PROFILE
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
