@@ -1,8 +1,8 @@
 
 <h2 align="center" style="color:blue;">Nuthapon Sripornprasert</h3>
-<p style="text-align:center">
+<div style="text-align:center">
 <img src="https://github.com/Nathapons/Nathapons.github.io/blob/master/picture/29314707_1726010667442216_1047016552009145206_n.jpg" alt="my profile" width="240" height="230">
-</p>
+</div>
 
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
