@@ -23,7 +23,7 @@
 </li>
   
 <h2>WORK EXPERIENCE</h2>
-<b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
+<h6>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</h6>
 <p>June, 2018 – Present</p>
     <li>I am Internet of Things Engineering</li>
     <li>Design PL/SQL Database</li>
