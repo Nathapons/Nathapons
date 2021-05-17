@@ -14,8 +14,10 @@
 <li>National: Thai</li>
 <li>Marital Status: Single</li>
 <li>Contract
-  <li>Phone no: 090-728-9242</li>
-  <li>Email: nuthaponsri@gmail.com</li>
+  <ul>
+    <li>Phone no: 090-728-9242</li>
+    <li>Email: nuthaponsri@gmail.com</li>
+  </ul>
 </li>
   
 
