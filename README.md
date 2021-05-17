@@ -1,5 +1,5 @@
 
-<h2 align="center" style="color:blue;">Nuthapon Sripornprasert</h3>
+<span><h2 align="center" style="color:red">Nuthapon Sripornprasert</h3></span>
 <p align="center">
 <img src="/picture/29314707_1726010667442216_1047016552009145206_n.jpg" width="240" height="230">
 </p>
