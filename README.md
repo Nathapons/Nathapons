@@ -23,10 +23,10 @@
 
 
 <h2>LANGUAGE AND TOOLS</h2>
-<code><img height="20" src="picture/python.png"></code>
-<code><img height="20" src="picture/git.png"></code>
-<code><img height="20" src="picture/vbnet.png"></code>
-<code><img height="20" src="picture/vscode.png"></code>
+<code><img height="30" src="picture/python.png"></code>
+<code><img height="30" src="picture/git.png"></code>
+<code><img height="30" src="picture/vbnet.png"></code>
+<code><img height="30" src="picture/vscode.png"></code>
 
 <h2>GITHUB STATS</h2>
 <a href="https://github.com/Nathapons/github-readme-stats">
