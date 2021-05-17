@@ -21,9 +21,10 @@
 
 <h2>TRAINING AND CERTIFICATE</h2>
 
-<h2>GITHUB REPRO</h2>
 
+<h2>LANGUAGE AND TOOLS</h2>
 
+<h2>GITHUB STATS</h2>
 <a href="https://github.com/Nathapons/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" />
