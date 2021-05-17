@@ -5,10 +5,10 @@
 </p>
 
 <h2>PROFILE</h2>
-<p>Date of Birth: 9th June 1995</p>
-<p>Age: 25</p>
-<p>National: Thai</p>
-<p>Marital Status: Single</p>
+    Date of Birth: 9th June 1995
+    Age: 25
+    National: Thai
+    Marital Status: Single
 
 <h2>WORK EXPERIENCE</h2>
 
