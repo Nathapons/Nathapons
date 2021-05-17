@@ -33,8 +33,8 @@
 
 <h2>PROJECT EXPERIENCE</h2>
 <p>
-  <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b>
-  <p>Responsibility: Python Backend Developer (Django)<p>
+  <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
+  Responsibility: Python Backend Developer (Django)
     <li>Design Entity Relation Diagram</li>
     <li>Write Django Models for create database in Postgres SQL</li>
     <li>Make Serializer of all model</li>
