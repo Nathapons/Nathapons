@@ -1,6 +1,8 @@
 
 # Nathapon Sr
 ![myprofile](/picture/29314707_1726010667442216_1047016552009145206_n.jpg)
+
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 ## PROFILE
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
 
