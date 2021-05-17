@@ -1,5 +1,6 @@
 
-<h3 align="center">Nuthapon Sripornprasert</h3>
+<h2 align="center" style="color:blue;">Nuthapon Sripornprasert</h3>
+![alt text](C:\Users\Nathapon.S\Desktop\GitHub\Nathapons.github.io\picture\29314707_1726010667442216_1047016552009145206_n.jpg)
 
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
