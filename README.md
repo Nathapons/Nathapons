@@ -41,7 +41,7 @@
     <li>Create All API Function in Home Service (Using Serializer to run query)</li>
     <li>Create Json Web Token when Login Page</li>
 </div>
-
+<br/>
 <div>
 <b>SPC Data Visualization</b><br/>
 Design Quality Graph in IoT Online Report
