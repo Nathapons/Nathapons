@@ -1,6 +1,8 @@
 
 # Nathapon Sr
+<p align="center">
 <img src="/picture/29314707_1726010667442216_1047016552009145206_n.jpg" alt="drawing" width="250" height="230"/>
+</p>
 
 ## PROFILE
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
