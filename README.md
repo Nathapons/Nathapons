@@ -31,9 +31,12 @@
     <li>Design Python user interface and script</li>
     <li>Build VB program language to upload data automatically</li>
     <li>Design Data Visualization</li>
+
+<h2>PROJECT EXPERIENCE</h2>
+
 <h2>TRAINING AND CERTIFICATE</h2>
 <p>
-
+  
 </p>
 
 <h2>LANGUAGE AND TOOLS</h2>
