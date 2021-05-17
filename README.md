@@ -56,14 +56,14 @@ Design Quality Graph in IoT Online Report
 </div>
 <br/>
 <div>
-<b>Cross Section Excel Report - Link</b><br/>
+<b>Cross Section Excel Report</b><br/>
 Design Cross Section Report from machine
    <li>Design Tkinter Library to design user interface</li>
    <li>Make the excel report via Openpyxl library</li>
 </div>
 <br>
 <div>
-<b>Count Duplicate - Link</b><br/>
+<b>Count Duplicate</b><br/>
 Design user interface to report duplicate fixture
    <li>Use Tkinter Library to design user interface</li>
    <li>Report fixture duplicate in CSV file</li>
