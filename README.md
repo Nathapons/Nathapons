@@ -71,9 +71,9 @@ Design user interface to report duplicate fixture
 
 <h2>TRAINING AND CERTIFICATE</h2>
 <b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
-<p>&nbsp;&nbsp;Lean Python Backend Developer (Django, Postgres SQL, Python)</p>
+<p>&nbsp;&nbsp;Learn Python Backend Developer (Django, Postgres SQL, Python)</p>
 <b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy<br>
-<p>&nbsp;&nbsp;Lean Basic Python program language and library</p>
+<p>&nbsp;&nbsp;Learn Basic Python program language and library</p>
 
 
 <h2>LANGUAGE AND TOOLS</h2>
