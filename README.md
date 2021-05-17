@@ -32,13 +32,15 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
-<b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b>
-<p>Responsibility: Python Backend Developer (Django)<p>
-   <li>Design Entity Relation Diagram</li>
-   <li>Write Django Models for create database in Postgres SQL</li>
-   <li>Make Serializer of all model</li>
-   <li>Create All API Function in Home Service (Using Serializer to run query)</li>
-   <li>Create Json Web Token when Login Page</li>
+<p>
+  <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b>
+  <p>Responsibility: Python Backend Developer (Django)<p>
+    <li>Design Entity Relation Diagram</li>
+    <li>Write Django Models for create database in Postgres SQL</li>
+    <li>Make Serializer of all model</li>
+    <li>Create All API Function in Home Service (Using Serializer to run query)</li>
+    <li>Create Json Web Token when Login Page</li>
+</p>
    
 <b>SPC Data Visualization</b>
 <p>Design Quality Graph in IoT Online Report<p>
