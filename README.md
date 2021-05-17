@@ -87,7 +87,7 @@ Design user interface to report duplicate fixture
 
 <h2>GITHUB STATS</h2>
 <a href="https://github.com/Nathapons/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight />
 </a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theabbie&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
+
