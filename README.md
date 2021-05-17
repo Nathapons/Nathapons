@@ -10,7 +10,7 @@
 
 <h2>PROFILE</h2>
 <p>
-<span>
+<div>
 <li>Date of Birth: 9th June 1995</li>
 <li>Gender: Male</li>
 <li>National: Thai</li>
@@ -23,7 +23,7 @@
     <dd>Facebook: <a href="https://www.facebook.com/nax.seekid">Link</a></dd>
   </ul>
 </li>
-</span>
+</div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
 </p>
 
