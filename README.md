@@ -1,7 +1,7 @@
 
 <h1 align="center">Nuthpon Sripornprasert</h1>
 <p align="center">
-<img src="/picture/29314707_1726010667442216_1047016552009145206_n.jpg" alt="drawing" width="240" height="230"/>
+<img src="picture/my_picture.jpg" alt="drawing" width="240" height="230"/>
 </p>
 
 <h2>ABOUT ME</h2>
@@ -24,7 +24,6 @@
 
 <h2>LANGUAGE AND TOOLS</h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
 <h2>GITHUB STATS</h2>
 <a href="https://github.com/Nathapons/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
