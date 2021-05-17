@@ -49,21 +49,20 @@ Design Quality Graph in IoT Online Report
    <li>Write VB program (POST database, send Outlook mail)</li>
    <li>Create SQL query to design Data Visualization</li>
 </div>
-
-<b>Cross Section Excel Report - Link</b>
-<p>Design Cross Section Report from machine<p>
+<br/>
+<div>
+<b>Cross Section Excel Report - Link</b><br/>
+Design Cross Section Report from machine
    <li>Design Tkinter Library to design user interface</li>
    <li>Make the excel report via Openpyxl library</li>
-
-<b>Count Duplicate - Link</b>
-<p>Design user interface to report duplicate fixture</p>
+</div>
+<br />
+<div>
+<b>Count Duplicate - Link</b><br/>
+Design user interface to report duplicate fixture
    <li>Use Tkinter Library to design user interface</li>
    <li>Report fixture duplicate in CSV file</li>
-
-<b>Resistance program – Link</b>
-<p>Import data from Keysight machine to Excel file<p>
-   <li>Design User interface</li>
-   <li>Get value from resistance machine via VISA-COM</li>
+</div>
 
 <h2>TRAINING AND CERTIFICATE</h2>
 <b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
