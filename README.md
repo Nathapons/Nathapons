@@ -5,12 +5,12 @@
 </p>
 
 ## PROFILE
-<p>
-&nbsp;&nbsp;Date of Birth: 9th June 1995<br/>
-&nbsp;&nbsp;Age: 25<br/>
-&nbsp;&nbsp;National: Thai<br/>
-&nbsp;&nbsp;Marital Status: Single<br/>
-</p>
+<pre style="font-family:arial;">
+    Date of Birth: 9th June 1995
+    Age: 25
+    National: Thai
+    Marital Status: Single
+</pre>
   
 
 <h2>WORK EXPERIENCE</h2>
