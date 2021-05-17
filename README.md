@@ -18,6 +18,13 @@
   
 
 <h2>WORK EXPERIENCE</h2>
+<b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
+<p>June, 2018 – Present</p>
+    <li>I am Internet of Things Engineering</li>
+    <li>Design PL/SQL Database</li>
+    <li>Design Python user interface and script</li>
+    <li>Build VB program language to upload data automatically</li>
+    <li>Design Data Visualization</li>
 
 <h2>TRAINING AND CERTIFICATE</h2>
 
