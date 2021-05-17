@@ -32,12 +32,15 @@
     <li>Build VB program language to upload data automatically</li>
     <li>Design Data Visualization</li>
 <h2>TRAINING AND CERTIFICATE</h2>
+<p>
 
+</p>
 
 <h2>LANGUAGE AND TOOLS</h2>
 <code><img height="30" src="picture/python.png"></code>
 <code><img height="30" src="picture/vbnet.png"></code>
 <code><img height="30" src="picture/git.png"></code>
+<code><img height="30" src="picture/github.png"></code>
 <code><img height="30" src="picture/vscode.png"></code>
 <code><img height="30" src="picture/PLSQL.jpg"></code>
 <code><img height="30" src="picture/postgresql.png"></code>
