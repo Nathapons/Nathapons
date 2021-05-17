@@ -17,6 +17,8 @@
   <ul>
     <dd>Phone no: 090-728-9242</dd>
     <dd>Email: nuthaponsri@gmail.com</dd>
+    <dd>Line: ax_dee</dd>
+    <dd>Facebook: <a href="https://www.facebook.com/nax.seekid">Link</a></dd>
   </ul>
 </li>
   
