@@ -4,12 +4,11 @@
 <img src="picture/my_picture.jpg" alt="drawing" width="240" height="230"/>
 </p>
 
-<h2>ABOUT ME</h2>
-<p>👋 Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus.</p>
+<h2>ABOUT ME 👋</h2>
+<p>Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus.</p>
 
 <h2>PROFILE</h2>
 <li>Date of Birth: 9th June 1995</li>
-<li>Age: 25</li>
 <li>Gender: Male</li>
 <li>National: Thai</li>
 <li>Marital Status: Single</li>
