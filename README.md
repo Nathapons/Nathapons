@@ -5,7 +5,6 @@
 </p>
 
 <h2>ABOUT ME</h2>
-<hr style="width:50%">
 <p>👋 Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus. </p>
 
 <h2>PROFILE</h2>
