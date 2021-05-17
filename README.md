@@ -32,9 +32,34 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
-<p>
+<b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b>
+<p>Responsibility: Python Backend Developer (Django)<p>
+   <li>Design Entity Relation Diagram</li>
+   <li>Write Django Models for create database in Postgres SQL</li>
+   <li>Make Serializer of all model</li>
+   <li>Create All API Function in Home Service (Using Serializer to run query)</li>
+   <li>Create Json Web Token when Login Page</li>
+   
+<b>SPC Data Visualization</b>
+<p>Design Quality Graph in IoT Online Report<p>
+   <li>Design PL/SQL Database</li>
+   <li>Write VB program (POST database, send Outlook mail)</li>
+   <li>Create SQL query to design Data Visualization</li>
 
-</p>
+<b>Cross Section Excel Report - Link</b>
+<p>Design Cross Section Report from machine<p>
+   <li>Design Tkinter Library to design user interface</li>
+   <li>Make the excel report via Openpyxl library</li>
+
+<b>Count Duplicate - Link</b>
+<p>Design user interface to report duplicate fixture</p>
+   <li>Use Tkinter Library to design user interface</li>
+   <li>Report fixture duplicate in CSV file</li>
+
+<b>Resistance program – Link</b>
+<p>Import data from Keysight machine to Excel file<p>
+   <li>Design User interface</li>
+   <li>Get value from resistance machine via VISA-COM</li>
 
 <h2>TRAINING AND CERTIFICATE</h2>
 <b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
