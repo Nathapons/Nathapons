@@ -27,6 +27,8 @@
 <code><img height="30" src="picture/vbnet.png"></code>
 <code><img height="30" src="picture/git.png"></code>
 <code><img height="30" src="picture/vscode.png"></code>
+<code><img height="30" src="picture/PLSQL.jpg"></code>
+<code><img height="30" src="picture/postgresql.jpg"></code>
 
 <h2>GITHUB STATS</h2>
 <a href="https://github.com/Nathapons/github-readme-stats">
