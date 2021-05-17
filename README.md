@@ -1,9 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Gift Egwuenu</h3>
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
+<h3 align="center">Nuthapon Sripornprasert</h3>
 
 ---
 ✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
