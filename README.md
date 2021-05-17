@@ -4,11 +4,11 @@
 <img src="picture/my_picture.jpg" alt="drawing" width="240" height="230"/>
 </p>
 
-<h3>ABOUT ME</h3>
+<h2>ABOUT ME</h2>
 <hr style="width:50%">
 <p>👋 Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus. </p>
 
-<h3>PROFILE</h3>
+<h2>PROFILE</h2>
 <hr style="width:50%">
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Date of Birth: 9th June 1995<br>
@@ -19,24 +19,22 @@
 </p>
   
 
-<h3>WORK EXPERIENCE</h3>
+<h2>WORK EXPERIENCE</h2>
 <hr style="height:2px">
 
-<h3>TRAINING AND CERTIFICATE</h3>
+<h2>TRAINING AND CERTIFICATE</h2>
 <hr style="height:2px">
 
 
-<h3>LANGUAGE</h3>
+<h2>LANGUAGE AND TOOLS</h2>
 <hr style="height:2px">
 <code><img height="30" src="picture/python.png"></code>
 <code><img height="30" src="picture/vbnet.png"></code>
 
-<h3>TOOLS</h3>
-<hr style="height:2px">
 <code><img height="30" src="picture/git.png"></code>
 <code><img height="30" src="picture/vscode.png"></code>
 
-<h3>GITHUB STATS</h3>
+<h2>GITHUB STATS</h2>
 <hr style="height:2px">
 <a href="https://github.com/Nathapons/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
