@@ -33,13 +33,15 @@
 
 <h2>PROJECT EXPERIENCE</h2>
 <p>
-  
+
 </p>
 
 <h2>TRAINING AND CERTIFICATE</h2>
-<p>
+<b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
+<p>&nbsp;&nbsp;Lean Python Backend Developer (Django, Postgres SQL, Python)</p>
+<b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy<br>
+<p>&nbsp;&nbsp;Lean Basic Python program language and library</p>
 
-</p>
 
 <h2>LANGUAGE AND TOOLS</h2>
 <code><img height="30" src="picture/python.png"></code>
