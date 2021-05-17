@@ -24,7 +24,7 @@
 <h2>GITHUB REPRO</h2>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Nathapons/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" />
 </a>
