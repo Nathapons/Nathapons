@@ -22,7 +22,6 @@
   </ul>
 </li>
   
-
 <h2>WORK EXPERIENCE</h2>
 <b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
 <p>June, 2018 – Present</p>
@@ -33,10 +32,13 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
+<p>
+  
+</p>
 
 <h2>TRAINING AND CERTIFICATE</h2>
 <p>
-  
+
 </p>
 
 <h2>LANGUAGE AND TOOLS</h2>
