@@ -7,10 +7,8 @@
 <h2>ABOUT ME 👋</h2>
 <p>Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus.</p>
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <h2>PROFILE</h2>
-<p>
-<div>
 <li>Date of Birth: 9th June 1995</li>
 <li>Gender: Male</li>
 <li>National: Thai</li>
@@ -23,10 +21,6 @@
     <dd>Facebook: <a href="https://www.facebook.com/nax.seekid">Link</a></dd>
   </ul>
 </li>
-</div>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
-</p>
-
   
 
 <h2>WORK EXPERIENCE</h2>
