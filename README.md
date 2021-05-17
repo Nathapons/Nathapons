@@ -5,10 +5,13 @@
 </p>
 
 ## PROFILE
-  Date of Birth: 9th June 1995<br>
-  Age: 25<br>
-  National: Thai<br>
-  Marital Status: Single<br>
+<p>
+  Date of Birth: 9th June 1995&nbsp;
+  Age: 25&nbsp;
+  National: Thai&nbsp;
+  Marital Status: Single&nbsp;
+</p>
+  
 
 <h2>WORK EXPERIENCE</h2>
 
