@@ -24,7 +24,7 @@
   </ul>
 </li>
 </span>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="50px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="50%"/>
 </div>
   
 <h2>WORK EXPERIENCE</h2>
@@ -61,7 +61,7 @@ Design Cross Section Report from machine
    <li>Design Tkinter Library to design user interface</li>
    <li>Make the excel report via Openpyxl library</li>
 </div>
-<br />
+<br>
 <div>
 <b>Count Duplicate - Link</b><br/>
 Design user interface to report duplicate fixture
