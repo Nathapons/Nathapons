@@ -9,7 +9,6 @@
 <p>👋 Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering. I have been working in 2 years. I am graduated from Kasetsart University, Kampaheng Saen Campus. </p>
 
 <h2>PROFILE</h2>
-<hr style="width:50%">
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Date of Birth: 9th June 1995<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Age: 25<br>
