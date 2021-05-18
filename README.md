@@ -44,7 +44,7 @@
     <li>Create Json Web Token when Login Page</li>
     <li>Django Plan
       <ul>
-        <dd><a href="picture/ERD Diagram.png">ERD</a></dd>
+        <dd>- <a href="picture/ERD Diagram.png">ERD</a></dd>
       </ul>
     </li>
 </div>
