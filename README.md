@@ -33,7 +33,7 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="25%"/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="25%"/>
 <div>
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
