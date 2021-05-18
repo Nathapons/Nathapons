@@ -38,6 +38,7 @@
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
     <li>Design <a href="picture/ERD Diagram.png">Entity Relation Diagram</a></li>
+    <li>Load initial data into Django tables</li>
     <li>Write Django Models for create database in Postgres SQL</li>
     <li>Make Serializer of all model</li>
     <li>Create All API Function in Home Service (Using Serializer to run query)</li>
