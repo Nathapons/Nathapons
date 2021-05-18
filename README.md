@@ -41,7 +41,7 @@
     <li>Write Django Models for create database in Postgres SQL</li>
     <li>Make Serializer of all model</li>
     <li>Create All API Function in Home Service (Using Serializer to run query)</li>
-    <li>Create Json Web Token when Login Page</li>
+    <li>Create Json Web Token for login webpage</li>
 </div>
 <br/>
 <div>
