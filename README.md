@@ -9,8 +9,7 @@
 
 
 <h2>PROFILE</h2>
-<div>
-<span>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="30%"/>
 <li>Date of Birth: 9th June 1995</li>
 <li>Gender: Male</li>
 <li>National: Thai</li>
@@ -23,9 +22,6 @@
     <dd>Facebook: <a href="https://www.facebook.com/nax.seekid">Link</a></dd>
   </ul>
 </li>
-</span>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="30%"/>
-</div>
   
 <h2>WORK EXPERIENCE</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="30%"/>
