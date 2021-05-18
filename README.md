@@ -28,6 +28,7 @@
 </div>
   
 <h2>WORK EXPERIENCE</h2>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="30%"/>
 <b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
 <p>June, 2018 – Present</p>
     <li>I am Internet of Things Engineering</li>
