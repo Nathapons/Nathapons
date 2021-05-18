@@ -42,7 +42,7 @@
     <li>Make Serializer of all model</li>
     <li>Create All API Function in Home Service (Using Serializer to run query)</li>
     <li>Create Json Web Token when Login Page</li>
-    <li>Django
+    <li>Django Plan
       <ul>
         <dd><a href="picture/ERD Diagram.png">ERD</a></dd>
       </ul>
