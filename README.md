@@ -9,7 +9,7 @@
 
 
 <h2>PROFILE</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="30%"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="20%"/>
 <li>Date of Birth: 9th June 1995</li>
 <li>Gender: Male</li>
 <li>National: Thai</li>
@@ -24,7 +24,6 @@
 </li>
   
 <h2>WORK EXPERIENCE</h2>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="30%"/>
 <b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
 <p>June, 2018 – Present</p>
     <li>I am Internet of Things Engineering</li>
@@ -34,6 +33,7 @@
     <li>Design Data Visualization</li>
 
 <h2>PROJECT EXPERIENCE</h2>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="30%"/>
 <div>
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
