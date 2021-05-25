@@ -75,7 +75,7 @@ Design user interface to report duplicate fixture
 
 
 <h2>LANGUAGE AND TOOLS</h2>
-<code><img height="30" src="picture/python.png"></code>
+<code><img height="30" src="picture/python.png" title="python"></code>
 <code><img height="30" src="picture/django-logo-negative.png"></code>
 <code><img height="30" src="picture/vbnet.png"></code>
 <code><img height="30" src="picture/git.png"></code>
