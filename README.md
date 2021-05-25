@@ -75,14 +75,14 @@ Design user interface to report duplicate fixture
 
 
 <h2>LANGUAGE AND TOOLS</h2>
-<code><img height="30" src="picture/python.png" title="python"></code>
-<code><img height="30" src="picture/django-logo-negative.png"></code>
-<code><img height="30" src="picture/vbnet.png"></code>
-<code><img height="30" src="picture/git.png"></code>
-<code><img height="30" src="picture/github.png"></code>
-<code><img height="30" src="picture/vscode.png"></code>
-<code><img height="30" src="picture/PLSQL.jpg"></code>
-<code><img height="30" src="picture/postgresql.png"></code>
+<code><img height="30" src="picture/python.png" title="Python"></code>
+<code><img height="30" src="picture/django-logo-negative.png" title="Django"></code>
+<code><img height="30" src="picture/vbnet.png" title="VB.net"></code>
+<code><img height="30" src="picture/git.png" title="Git Bash"></code>
+<code><img height="30" src="picture/github.png" title="GitHub"></code>
+<code><img height="30" src="picture/vscode.png" title="VS Code"></code>
+<code><img height="30" src="picture/PLSQL.jpg" title="PL/SQL"></code>
+<code><img height="30" src="picture/postgresql.png" title="Postgres SQL"></code>
 
 <h2>GITHUB STATS</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" width="400px"/>
