@@ -1,5 +1,5 @@
 
-<h1 align="center">Nuthpon Sripornprasert 😆</h1>
+<h1 align="center">Nuthapon Sripornprasert 😆</h1>
 <p align="center">
 <img src="picture/my_picture.jpg" alt="drawing" width="240" height="230"/>
 </p>
