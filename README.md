@@ -70,6 +70,7 @@ Design user interface to report duplicate fixture
 <h2>TRAINING AND CERTIFICATE</h2>
 <b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
 <p>&nbsp;&nbsp;Learn Python Backend Developer (Django, Postgres SQL, Python)</p>
+<p>&nbsp;&nbsp;<a href="File/HomeService.ppsx">Home Service Powerpoint</a></p>
 <b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy<br>
 <p>&nbsp;&nbsp;Learn Basic Python program language and library</p>
 
