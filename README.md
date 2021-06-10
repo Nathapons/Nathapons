@@ -19,7 +19,6 @@
     <dd>Phone no: 090-728-9242</dd>
     <dd>Email: nuthaponsri@gmail.com</dd>
     <dd>Line: ax_dee</dd>
-    <dd>Facebook: <a href="https://www.facebook.com/nax.seekid">Link</a></dd>
   </ul>
 </li>
   
@@ -38,6 +37,7 @@
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
     <li>Design <a href="picture/ERD Diagram.png">Entity Relation Diagram</a></li>
+    <li>Design <a href="picture/Architecture.png">Django architecture</a></li>
     <li>Load initial data into Django tables</li>
     <li>Write Django Models for create database in Postgres SQL</li>
     <li>Make Serializer of all model</li>
