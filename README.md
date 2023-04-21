@@ -5,7 +5,7 @@
 </p>
 
 <h2>ABOUT ME 👋</h2>
-<p>Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am IoT Engineering 👩🏿‍💻. I have been working in 2 years. I graduated from Kasetsart University Kampaheng Saen Campus, Bachelor degree of industrial engineering 👨‍🎓. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and backend of website application</p>
+<p>Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Python Backend Developer 👩🏿‍💻. I have been working in 2 years. I graduated from Kasetsart University Kampaheng Saen Campus 👨‍🎓. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and backend of website application</p>
 
 
 <h2>PROFILE</h2>
