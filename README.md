@@ -24,7 +24,7 @@
   
 <h2>WORK EXPERIENCE</h2>
 <b>Mor Coporation (The VC group)</b>
-<p>June, 2021 – June 2022</p>
+<p style="padding:none">June, 2021 – June 2022</p>
 <p>Position: Python Backend Developer</p>
 <p>Project: Chakri Naruebodindra Medical Institute Hosipital</p>
 <ul>
