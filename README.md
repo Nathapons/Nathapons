@@ -99,6 +99,6 @@ Design user interface to report duplicate fixture
 <code><img height="30" src="picture/github.png" title="GitHub"></code>
 <code><img height="30" src="picture/PLSQL.jpg" title="PL/SQL"></code>
 
-<h2>GITHUB STATS</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" width="400px"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathapons&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" width="400px" />
+# <h2>GITHUB STATS</h2>
+# <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathapons&layout=compact&theme=material-palenight" width="400px"/>
+# <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nathapons&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" width="400px" />
