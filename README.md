@@ -23,27 +23,29 @@
 </li>
   
 <h2>WORK EXPERIENCE</h2>
-<b>Swift Dynamics Co., Ltd.</b>
-<p style="padding:none">July, 2022 – Present</p>
-<p>Position: Python Backend Developer</p>
-<p>Project: Constructor Managerment (CM sitearound)</p>
+<div>
+<b>Swift Dynamics Co., Ltd.</b><br/>
+July, 2022 – Present
 <ul>
   <li>Set a new project structure (ModelViewSet, Serializer, Model, Middleware, etc.)</li>
   <li>Create csv and pdf using Django import export and Jasper studio</li>
   <li>Review code from junior developer in Github</li>
   <li>Clean code, fix bug and improve performance by Django silk</li>
 </ul>
+</div>
 
-<b>Mor Coporation (The VC group)</b>
-<p style="padding:none">October, 2021 – June, 2022</p>
-<p>Position: Python Backend Developer</p>
-<p>Project: Chakri Naruebodindra Medical Institute Hosipital</p>
+<div>
+<b>Mor Coporation (The VC group)</b><br/>
+October, 2021 – June, 2022<br/>
+Position: Python Backend Developer<br/>
+<br/>Project: Chakri Naruebodindra Medical Institute Hosipital<br/>
 <ul>
   <li>Improve performance of Django APIs and Django Admin by Django-silk</li>
   <li>Fix bug and add feature in APIs (Ex: Appointment document, new QML-UI, etc.)</li>
   <li>Get database by Django-ORM</li>
   <li>Send issue to manager in Gitlab</li>
 </ul>
+</div>
 
 <div>
 <b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b><br/>
