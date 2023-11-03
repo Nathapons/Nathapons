@@ -107,6 +107,7 @@ Design user interface to report duplicate fixture
 <h2>PROGRAMING LANGUAGE</h2>
 <code><img height="30" src="picture/python.png" title="Python"></code>
 <code><img height="30" src="picture/vbnet.png" title="VB.net"></code>
+<code><img height="30" src="picture/golang.png" title="Golang"></code>
 <code><img height="40" src="picture/html.png" title="HTML"></code>
 <code><img height="40" src="picture/css.png" title="CSS"></code>
 <code><img height="40" src="picture/js.png" title="Javascript"></code>
