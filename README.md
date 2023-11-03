@@ -98,19 +98,20 @@ Design user interface to report duplicate fixture
 <b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy</b><br>
 <p>&nbsp;&nbsp;Learn Basic Python program language and library</p>
 
-<h2>FRAMEWORKS</h2>
-<code><img height="30" src="picture/django-logo-negative.png" title="Django"></code>
-
 <h2>PROGRAMING LANGUAGE</h2>
 <code><img height="30" src="picture/python.png" title="Python"></code>
 <code><img height="30" src="picture/vbnet.png" title="VB.net"></code>
-<code><img height="30" src="picture/github.png" title="GitHub"></code>
-<code><img height="30" src="picture/PLSQL.jpg" title="PL/SQL"></code>
+
+<h2>FRAMEWORKS</h2>
+<code><img height="30" src="picture/django-logo-negative.png" title="Django"></code>
+<code><img height="30" src="picture/react.png" title="React"></code>
 
 <h2>DEVELOPER TOOLS</h2>
-<code><img height="30" src="picture/git.png" title="Git Bash"></code>
 <code><img height="30" src="picture/vscode.png" title="VS Code"></code>
-<code><img height="30" src="picture/vscode.png" title="PyCharm"></code>
+<code><img height="30" src="picture/pycharm.png" title="PyCharm"></code>
+<code><img height="30" src="picture/PLSQL.jpg" title="PL/SQL"></code>
 <code><img height="30" src="picture/postgresql.png" title="Postgres SQL"></code>
+<code><img height="30" src="picture/git.png" title="Git Bash"></code>
+<code><img height="30" src="picture/github.png" title="GitHub"></code>
 
 <h2>CONTRACT ME</h2>
