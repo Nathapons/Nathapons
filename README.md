@@ -123,3 +123,4 @@ Design user interface to report duplicate fixture
 <code><img height="30" src="picture/postgresql.png" title="Postgres SQL"></code>
 <code><img height="30" src="picture/git.png" title="Git Bash"></code>
 <code><img height="30" src="picture/github.png" title="GitHub"></code>
+<code><img height="30" src="picture/docker.png" title="Docker"></code>
