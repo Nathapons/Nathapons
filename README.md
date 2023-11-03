@@ -23,18 +23,30 @@
 </li>
   
 <h2>WORK EXPERIENCE</h2>
+<b>Swift Dynamics Co., Ltd.</b>
+<p style="padding:none">July, 2022 – Present</p>
+<p>Position: Python Backend Developer</p>
+<p>Project: Constructor Managerment (CM sitearound)</p>
+<ul>
+  <li>Set a new project structure (ModelViewSet, Serializer, Model, Middleware, etc.)</li>
+  <li>Create csv and pdf using Django import export and Jasper studio</li>
+  <li>Review code from junior developer in Github</li>
+  <li>Clean code, fix bug and improve performance by Django silk</li>
+</ul>
+
 <b>Mor Coporation (The VC group)</b>
-<p style="padding:none">June, 2021 – June 2022</p>
+<p style="padding:none">October, 2021 – June, 2022</p>
 <p>Position: Python Backend Developer</p>
 <p>Project: Chakri Naruebodindra Medical Institute Hosipital</p>
 <ul>
-  <li>Create new requiring feature</li>
-  <li>Fix bug program</li>
-  <li>APIs performance by Django silk</li>
+  <li>Improve performance of Django APIs and Django Admin by Django-silk</li>
+  <li>Fix bug and add feature in APIs (Ex: Appointment document, new QML-UI, etc.)</li>
+  <li>Get database by Django-ORM</li>
+  <li>Send issue to manager in Gitlab</li>
 </ul>
 
 <b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
-<p>June, 2018 – Present</p>
+<p>June, 2018 – September, 2021</p>
 <ul>
   <li>I am Internet of Things Engineering</li>
   <li>Design PL/SQL Database</li>
@@ -81,9 +93,9 @@ Design user interface to report duplicate fixture
 </div>
 
 <h2>TRAINING AND CERTIFICATE</h2>
-<b>OFFLINE FullStack Python For Web Developer, Software Park Camp<br>
+<b>OFFLINE FullStack Python For Web Developer, Software Park Camp</b><br>
 <p>&nbsp;&nbsp;Learn Python Backend Developer (Django, Postgres SQL, Python)</p>
-<b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy<br>
+<b>COMPLETE PYTHON 3 PROGRAMING, BornToDev Coding Academy</b><br>
 <p>&nbsp;&nbsp;Learn Basic Python program language and library</p>
 
 <h2>DEVELOPER TOOLS</h2>
@@ -98,3 +110,6 @@ Design user interface to report duplicate fixture
 <code><img height="30" src="picture/vbnet.png" title="VB.net"></code>
 <code><img height="30" src="picture/github.png" title="GitHub"></code>
 <code><img height="30" src="picture/PLSQL.jpg" title="PL/SQL"></code>
+<code><img height="30" src="picture/pycharm.png" title="Pycharm"></code>
+
+<h2>CONTRACT ME</h2>
