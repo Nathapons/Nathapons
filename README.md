@@ -21,6 +21,8 @@
     <dd>Line: ax_dee</dd>
   </ul>
 </li>
+
+<h2>CONTRACT ME</h2>
   
 <h2>WORK EXPERIENCE</h2>
 <div>
@@ -117,5 +119,3 @@ Design user interface to report duplicate fixture
 <code><img height="30" src="picture/postgresql.png" title="Postgres SQL"></code>
 <code><img height="30" src="picture/git.png" title="Git Bash"></code>
 <code><img height="30" src="picture/github.png" title="GitHub"></code>
-
-<h2>CONTRACT ME</h2>
