@@ -45,8 +45,9 @@
   <li>Send issue to manager in Gitlab</li>
 </ul>
 
-<b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b>
-<p>June, 2018 – September, 2021</p>
+<div>
+<b>Fujikura Electronics (Thailand) Ltd.  (IoT Engineering)</b><br/>
+June, 2018 – September, 2021
 <ul>
   <li>I am Internet of Things Engineering</li>
   <li>Design PL/SQL Database</li>
@@ -54,6 +55,7 @@
   <li>Build VB program language to upload data automatically</li>
   <li>Design Data Visualization</li>
 </ul>
+</div>
     
 
 <h2>PROJECT EXPERIENCE</h2>
