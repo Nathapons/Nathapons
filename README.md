@@ -38,7 +38,7 @@ July, 2022 – Present
 <b>Mor Coporation (The VC group)</b><br/>
 October, 2021 – June, 2022<br/>
 Position: Python Backend Developer<br/>
-<br/>Project: Chakri Naruebodindra Medical Institute Hosipital<br/>
+Project: Chakri Naruebodindra Medical Institute Hosipital<br/>
 <ul>
   <li>Improve performance of Django APIs and Django Admin by Django-silk</li>
   <li>Fix bug and add feature in APIs (Ex: Appointment document, new QML-UI, etc.)</li>
