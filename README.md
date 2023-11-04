@@ -72,6 +72,7 @@ June, 2018 – September, 2021
     <li>create Jasper report for PDF (Matching UX/UI design)</li>
     <li>Improve performance and descrese number of query by Django silk</li>
 </div>
+<br/>
 <div>
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
