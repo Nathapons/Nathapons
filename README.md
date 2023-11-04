@@ -65,6 +65,14 @@ June, 2018 – September, 2021
 <h2>PROJECT EXPERIENCE</h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="25%"/>
 <div>
+  <b>Constructor Managerment (CM Sitearound)</b><br/>
+  Responsibility: Python Backend Developer (Django)
+    <li>Design Django project pattern for easily coding</a></li>
+    <li>Process flow program</li>
+    <li>create Jasper report for PDF (Matching UX/UI design)</li>
+    <li>Improve performance and descrese number of query by Django silk</li>
+</div>
+<div>
   <b>Home_service Website (Software Park Camp: Python Full Stack Developer)</b><br/>
   Responsibility: Python Backend Developer (Django)
     <li>Design <a href="picture/ERD Diagram.png">Entity Relation Diagram</a></li>
