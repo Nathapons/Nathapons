@@ -8,7 +8,6 @@ Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Python Backend Deve
 
 * 🌍  I'm based in ฺBangkok, Thailand
 * ✉️  You can contact me at [nuthaponsri@gmail.com](mailto:nuthaponsri@gmail.com)
-* 🚀  I'm currently working on [Swift Dynamics](http://www.swiftdynamics.co.th/)
 * 🧠  I'm learning Java and Spring boot framework.
 * 🤝  I'm open to collaborating on Backend developer
 
