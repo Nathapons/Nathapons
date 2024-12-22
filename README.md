@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Backend Developer 👩🏿‍💻. I have been working in 4 years. I graduated from Kasetsart University Kampaheng Saen Campus 👨‍🎓. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and backend of website application
+Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Backend Developer 👩🏿‍💻. I have been working in 4 years. I graduated from Kasetsart University Kamphaeng Saen Campus 👨‍🎓. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and backend of website application
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nuthaponsri@gmail.com](mailto:nuthaponsri@gmail.com)
