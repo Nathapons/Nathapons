@@ -9,7 +9,7 @@ Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Backend Developer �
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nuthaponsri@gmail.com](mailto:nuthaponsri@gmail.com)
 * 🧠  I'm learning Go and DevOps skill.
-* 🤝  I'm open to collaborating on Backend developer
+* 🤝  I'm open to collaborating on Fullstack developer
 
 ### Skills
 
