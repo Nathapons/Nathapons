@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -----------------
 
-Hi, My name is Nathapon Sripornprasert. Nickname is Ax. I am Backend Developer 👩🏿‍💻. I have been working in 4 years. I graduated from Kasetsart University Kamphaeng Saen Campus 👨‍🎓. I create project to support in production process of the company. In my free time, I are dedicated for learning program coding and backend of website application
+Experienced programmer with 4 years of expertise developing web using Django, C#.net, ReactJs. I am proficient in designing efficient APIs, Database Schema, and collaborating with the developer and operation team. Process understanding of programming principles and problem-solving skills with a new technologies and apply them to develop applications
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nuthaponsri@gmail.com](mailto:nuthaponsri@gmail.com)
