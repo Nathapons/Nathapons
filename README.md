@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -----------------
 
-Experienced programmer with 4 years of expertise developing web using Django, C#.net, ReactJs. I am proficient in designing efficient APIs, Database Schema, and collaborating with the developer and operation team. Process understanding of programming principles and problem-solving skills with a new technologies and apply them to develop applications
+Experienced Backend Developer with a proven track record in designing, developing, and deploying scalable web applications using Python/Django. Strong in database management and RESTful APIs. Collaborative and results-driven, seeking a challenging role at NestiFly Co., Ltd. to contribute to impactful projects and expand technical skills.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  Portfolio Web Application: [Nuthapon Portfolio](https://nathapons.github.io/portfolio/)
